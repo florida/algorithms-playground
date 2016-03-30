@@ -1,0 +1,15 @@
+{
+  "name": "algorithms",
+  "version": "1.0.0",
+  "description": "A playground for algorithms",
+  "main": "index.js",
+  "dependencies": {
+    "data_structures": "^0.1.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Florida Elago <florida.elago@gmail.com>",
+  "license": "ISC"
+}
